@@ -1,0 +1,12 @@
+.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorInherit[title="Delete Book"]{
+	font-size: 34px;
+	color: #f50057;
+}
+.MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorInherit[title="Edit Book"]{
+	font-size: 34px;
+	color: #3f51b5;
+}
+th span.MuiTableSortLabel-icon{
+	height: 1em;
+	width: 1em;
+}
